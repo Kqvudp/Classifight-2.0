@@ -3,7 +3,10 @@ guid: eebdbc761d0fb044a8faf03e72861e12
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - chat: {fileID: 3380383900558517059, guid: 8bb98d6baa4d63d479a858561ce41563, type: 3}
+  - hostBtn: {instanceID: 0}
+  - clientBtn: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
